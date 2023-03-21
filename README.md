@@ -4,10 +4,10 @@ Audit Reports of SOLV Protocol
 ## SOLV 3.0
 
 #### Salus Audit Report for ERC-3525
-[ERC3525 audit report v2 - Salus.pdf](https://github.com/solv-finance/Audit/blob/main/solv-v3/ERC3525%20audit%20report%20v2%20-%20Salus.pdf)
+[ERC3525 audit report v2 - Salus.pdf](https://github.com/solv-finance/Audit/blob/main/Solv-v3/ERC3525%20audit%20report%20v2%20-%20Salus.pdf)
 
 #### Salus Audit Report for SOLV 3.0
-[Solv Protocol V3 Audit Report v2 - Salus.pdf](https://github.com/solv-finance/Audit/blob/main/solv-v3/Solv%20Protocol%20V3%20Audit%20Report%20v2%20-%20Salus.pdf)
+[Solv Protocol V3 Audit Report v2 - Salus.pdf](https://github.com/solv-finance/Audit/blob/main/Solv-v3/Solv%20Protocol%20V3%20Audit%20Report%20v2%20-%20Salus.pdf)
 
 ## SOLV 2.0
 
