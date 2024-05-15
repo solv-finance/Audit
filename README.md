@@ -7,7 +7,7 @@ Audit Reports of SOLV Protocol
 
 #### Solv-yield-markets: Audit report for yield markets, the main contracts of Solv protocol, including markets, shares, oracles and redemption contracts.
 
-#### SolvVaultGurdian: Audit report for Solv Gurdian contracts, the security framework for Solv protocol.
+#### SolvVaultGurdian: Audit report for Solv Guardian contracts, the security framework for Solv protocol.
 
 ## SOLV 2.0
 
